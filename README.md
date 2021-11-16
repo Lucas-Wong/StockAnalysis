@@ -30,7 +30,7 @@ Lucas Wang:
 
 ## License (项目开源授权许可)
 
-除特别声明外，本项目源码使用 [MIT](LICENSE) 授权。
+除特别声明外，本项目源码使用 [Apache License 2.0](LICENSE) 授权。
 
 ------
 
